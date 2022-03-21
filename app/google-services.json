@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379395899649",
+    "project_id": "simulator-sportheca-45372",
+    "storage_bucket": "simulator-sportheca-45372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379395899649:android:cb5c0b58c382ed2d9d1b00",
+        "android_client_info": {
+          "package_name": "br.com.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379395899649-6emlb49rmtkckmhn12jbena4l31drbfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPh30Ll4YzeSUxHJWaen9Uh1Osdz9sjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379395899649-6emlb49rmtkckmhn12jbena4l31drbfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

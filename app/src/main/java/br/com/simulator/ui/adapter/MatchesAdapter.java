@@ -55,7 +55,7 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHold
 
         holder.itemView.setOnClickListener(view -> {
             Intent intent = new Intent(context, DetailActivity.class);
-            intent.putExtra(DetailActivity.Extras.MATCH, String.valueOf(match));
+            intent.putExtra(DetailActivity.Extras.MATCH, match);
             context.startActivity(intent);
         });
     }
