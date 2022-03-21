@@ -8,3 +8,5 @@ App Android Nativo de Simulação de Partidas. Este repositório foi organizado 
     - [release/components-layouts-ui-ux-em-apps-android](https://github.com/jubabdag/matches-simulator-app/tree/release/components-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
     - [release/java-e-kotlin-juntos-construido-apps-android](https://github.com/jubabdag/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase para Apps Android Resilientes
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/jubabdag/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
